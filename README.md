@@ -1,3 +1,21 @@
+# Amazon-clone
+Tryied our best to replicate the UI of amazon
+Has **Firebase as backend** (so you can login or create account).
+Add to cart functionality is working properly
+
+## How To Run
+
+Clone the repo to your local device.
+```
+npm install
+```
+to install all the packages, then
+```
+npm start
+```
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
